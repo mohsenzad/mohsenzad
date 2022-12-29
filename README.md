@@ -1,5 +1,2 @@
- - I'm Mohsen Abbaszadeh
- - 👋 Hi, I’m @mohsenzad
- - 👀 I’m interested in Machine learning
- - 🌱 I’m currently learning C++
- - 📫 How to reach me mohsenzadd@gmail.com
+# RoMo
+Mohsen Abbaszadeh 2022
