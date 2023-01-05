@@ -1,5 +1,4 @@
-[![Mohsen Abbaszadeh's GitHub stats](https://github-readme-stats.vercel.app/api?mohsenzad=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+![Mohsen Abbaszadeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsenzad&hide=contribs,prs)
 ## &#x1f4c8; Some stats about me
  <p align="center">
  	  <img src=https://github-profile-trophy.vercel.app/?username=mohsenzad&theme=onedark&row=1 />
