@@ -1,10 +1,5 @@
- <p align="center">
  ![Mohsen Abbaszadeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsenzad&show_icons=true&theme=radical)
- ## Some stats about me &#x1f4c8;
- 	  <img src=https://github-profile-trophy.vercel.app/?username=mohsenzad&theme=onedark&row=1 />
-  <br/>
-  <img src= https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenzad&layout=compact&bg_color=191b1f&title_color=46D1FD&text_color=fff />
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenzad&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
  ## 👨🏻‍💻 Somethings that I Love them
 
 <p align="center"> 
