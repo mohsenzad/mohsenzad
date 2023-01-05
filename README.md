@@ -9,15 +9,7 @@
 
 <p align="center"> 
       <a href="https://www.python.org" target="_blank"> <img src="https://kalebujordan.dev/content/images/2021/04/icons8-python.svg" alt="flutter" width="40" height="40"/> </a>  
-  <a href="https://html.spec.whatwg.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="dart" width="40" height="40"/> </a>
-          <a href="https://www.w3.org/TR/CSS/#css" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="typescript" width="40" height="40"/> </a>  
-    <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nest" width="40" height="40"/> </a>
-       <a href="https://nodejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
-   <a href="https://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a> 
-     <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-     <a href="https://getfedora.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="pytorch" width="40" height="40"/> </a>  <br>
+  <a href="https://html.spec.whatwg.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="dart" width="40" height="40"/> </a> 
  <p>
    
   </p>
